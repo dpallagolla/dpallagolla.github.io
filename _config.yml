@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            *insert creative name here*
+description:      A place where I can organise all my projects and to keep track of awesome stuff I find on the internet and of course share the same with people!
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,16 +9,16 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Dwarakesh Pallagolla
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Techie,Foodie,Fitness Enthusiast (my food cravings are causing issues here!), basically interested in anything and everything!"
+  email:          pallagolla.dwarakesh@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
+  facebook:       https://www.facebook.com/dwarakesh.pallagolla
+  github:         https://github.com/dpallagolla
+  stackexchange:  https://stackoverflow.com/users/2302822/dwarakesh-pallagolla
+  linkedin:       https://in.linkedin.com/in/dwarakesh-pallagolla-ab711648
   instagram:      
   flickr:         
   tumblr:         
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    India/Delhi
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
