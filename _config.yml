@@ -1,4 +1,4 @@
-title:            *insert creative name here*
+title:            Insert creative name here
 description:      A place where I can organise all my projects and to keep track of awesome stuff I find on the internet and of course share the same with people!
 disqus_shortname: 
 reading_time:     true
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    India/Delhi
+timezone:    Asia/Kolkata
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
